@@ -33,9 +33,10 @@ Application Preview - https://ketandogra.github.io/albums/
 # ScreenShot
 
 # Home Page
-
+![ss1](https://github.com/ketandogra/albums/assets/75082428/84d9e259-8fba-4f63-b883-46f9d19e6f55)
 
 # Add new album form
-
+![ss2](https://github.com/ketandogra/albums/assets/75082428/41144351-c464-4113-918c-6c5f8a7ab0ec)
 
 # Update existing album
+![ss3](https://github.com/ketandogra/albums/assets/75082428/07a49108-50c9-4d04-b14d-53b55bea45c8)
